@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<expression>
+  <power>
+    <plus>
+      <root>
+        <number value="17" />
+        <number value="4" />
+      </root>
+      <times>
+        <divide>
+          <number value="8" />
+          <number value="2" />
+        </divide>
+        <number value="4" />
+      </times>
+    </plus>
+    <number value="0" />
+  </power>
+</expression>
